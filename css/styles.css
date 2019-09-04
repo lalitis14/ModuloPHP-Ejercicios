@@ -1,0 +1,28 @@
+header{
+  background-color: #2f994c;
+  }
+
+body{
+background-image: url('../images/email-pattern.png');
+}
+
+ul{
+list-style-type:square;
+}
+
+h3{
+text-decoration: underline;
+}
+
+.ejercicio{
+width:400px;
+background-color: rgba(255,255,255,0.5);
+}
+
+.solucion{
+font-size: 12px;
+}
+
+.ejecucion{
+font-size: 12px;
+}
